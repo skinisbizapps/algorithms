@@ -14,7 +14,9 @@ object EuclidGCD extends App {
 
   println(gcd(10, 8))
   println(gcd(78, 66))
+  println(gcd(66, 78))
   println(gcd(27, 33))
+  println(gcd(54, 81))
   //print(10%8)
   /*
   gcd(10,8)
