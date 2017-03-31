@@ -45,16 +45,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuickFind.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/apps/biz/skini/ch01/QuickFind.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="KNearestNeighbours.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/apps/biz/skini/ch001/KNearestNeighbours.scala">
           <provider selected="true" editor-type-id="text-editor">
